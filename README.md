@@ -35,6 +35,4 @@ cnext-automation/
 
 Qadsa Noor
 QA Automation Engineer
-📫 **Reach Me At**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/qadsa-noor-cs/)  
-- 📧 [qadsanoor.cs@gmail.com](mailto:qadsanoor.cs@gmail.com)
+

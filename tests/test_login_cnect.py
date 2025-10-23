@@ -14,8 +14,8 @@ def test_cnext_login(driver):
     driver.get("https://alpha.cnext.revdev.it/")
 
     login = LoginPage(driver)
-    login.enter_email("admin@cnext.com")
-    login.enter_password("Secure@CNext88$")
+    login.enter_email("email")
+    login.enter_password("########")
     login.accept_terms()
     login.remember_me()
     login.click_login()
