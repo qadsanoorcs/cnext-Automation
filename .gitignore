@@ -1,0 +1,29 @@
+__pycache__/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Test & Reports
+reports/
+*.html
+*.xml
+
+# Selenium driver logs
+chromedriver.log
+geckodriver.log
+
+# OS files
+.DS_Store
+Thumbs.db
